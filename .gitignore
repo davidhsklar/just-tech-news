@@ -1,4 +1,6 @@
 node_modulesbp
+.DS_store
+
 
 # Logs
 logs
