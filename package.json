@@ -1,0 +1,23 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "a backend for a news site",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhsklar/just-tech-news.git"
+  },
+  "author": "David Sklar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhsklar/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/davidhsklar/just-tech-news#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
